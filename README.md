@@ -1,4 +1,4 @@
-# proposals
+# community USD proposals
 Community collaboration on proposals for USD
 
 ## what is a proposal?
