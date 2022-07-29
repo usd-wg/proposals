@@ -1,6 +1,16 @@
 # proposals
 Community collaboration on proposals for USD
 
+## what is a proposal?
+- a new schema, such as "Level of Detail for Games"
+- an outline for a technical action, such as "Removing the boost preprocessor macros"
+- a new development, such as "Evaluation of Hermite Patches"
+- a discussion of scope tightening, such as "Standardizing Alembic without HDF5"
+
+## relationship to other forums
+- Initial discussion and coordination of effort may occur in the wg-usd slack, or the usd-interest Google Group
+- The various ASWF usd working groups are good venues for face to face discussion, presentations, and so on
+
 ## New proposals
 Fork this repo, create a directory for the proposal and its materials, then submit a PR.
 The proposal will be landed, and iteration and collaboration will take the form of issues, and pull requests on the new materials.
