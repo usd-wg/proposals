@@ -24,7 +24,7 @@ A CLA needs to be registered by contributors via EasyCLA, to indicate that you a
 
 ### Create an Issue for the proposal
 
-Use the issue Proposal Template, and fill out the form.
+Use the issue Proposal Template, and fill out the form. The issue will be used to track conversation and PRs against the proposal, and will also serve as an at-a-glance summary of any particular proposal.
 
 ### Submit materials for the proposal
 
